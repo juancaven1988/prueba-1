@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594038661 source:c:\licenciatura informatica\primer año\programacion\proyectos\dados 7\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
